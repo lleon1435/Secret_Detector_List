@@ -1,5 +1,6 @@
 # Secret_Detector_List
 Powerful tools designed to detect secret leaks
+
 https://github.com/trufflesecurity/trufflehog
 
 https://github.com/newrelic/rusty-hog
